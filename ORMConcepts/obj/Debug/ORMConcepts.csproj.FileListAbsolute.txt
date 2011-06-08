@@ -1,0 +1,9 @@
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\ORMConcepts.dll
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\ORMConcepts.pdb
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\Iesi.Collections.dll
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\NHibernate.dll
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\Iesi.Collections.xml
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\bin\Debug\NHibernate.xml
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\obj\Debug\ORMConcepts.dll
+C:\Projects\JamesKovacsWorkshop\ORMConcepts\obj\Debug\ORMConcepts.pdb

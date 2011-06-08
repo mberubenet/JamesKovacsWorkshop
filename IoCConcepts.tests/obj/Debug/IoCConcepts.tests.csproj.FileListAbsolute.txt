@@ -1,0 +1,11 @@
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\IoCConcepts.tests.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\IoCConcepts.tests.pdb
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\IoCConcepts.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\nunit.framework.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\nunit.mocks.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\pnunit.framework.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\IoCConcepts.pdb
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\bin\Debug\nunit.framework.xml
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\obj\Debug\IoCConcepts.tests.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts.tests\obj\Debug\IoCConcepts.tests.pdb

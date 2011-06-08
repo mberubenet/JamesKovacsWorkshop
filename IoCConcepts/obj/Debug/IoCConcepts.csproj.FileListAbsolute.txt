@@ -1,0 +1,10 @@
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\IoCConcepts.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\IoCConcepts.pdb
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\obj\Debug\IoCConcepts.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\obj\Debug\IoCConcepts.pdb
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\Castle.Core.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\Castle.Windsor.dll
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\Castle.Core.xml
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\Castle.Windsor.pdb
+C:\Projects\JamesKovacsWorkshop\IoCConcepts\bin\Debug\Castle.Windsor.xml
